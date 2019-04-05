@@ -27,8 +27,8 @@ To run the resulting binary:
 3. Connect with GDB:  
  `arm-none-eabi-gdb`
 
- In GDB:  
- `target remote localhost: 1234`  
- `file test.elf`
+    In GDB:  
+    `target remote localhost: 1234`  
+    `file test.elf`
 
  You can now set breakpoints on the function names and step through the binary.
