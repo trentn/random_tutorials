@@ -4,4 +4,4 @@ This repository serves as a collection of random tutorials and related code that
 
 # C Programming
 Various C related tutorials
-* [Bare Metal C for ARM](./bare_metal_c)
+* [Bare Metal C for ARM](./bare_metal_C)
