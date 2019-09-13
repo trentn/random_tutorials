@@ -9,3 +9,7 @@ Various C related tutorials or notes
 # FPGAs
 Various FPGA related tutorials or notes
 * [Verilog Simulation on EDAPlayground](./verilog_simulation)
+
+# Jupyter
+Various Jupyter relates tutorials or notes
+*[Jupyter notes](./jupyter)
