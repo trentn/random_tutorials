@@ -12,4 +12,4 @@ Various FPGA related tutorials or notes
 
 # Jupyter
 Various Jupyter relates tutorials or notes
-*[Jupyter notes](./jupyter)
+* [Jupyter notes](./jupyter)
