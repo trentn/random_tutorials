@@ -6,4 +6,4 @@ clean:
 	rm core.o main.elf
 	
 flash:
-	openocd -f ./board.cfg -c "program main.elf reset exit"
+	openocd -f ../board.cfg -c "program main.elf reset exit"
